@@ -1,2 +1,2 @@
 # Python-Itertools
-Some receipt for Python itertools
+Some recipes for Python itertools
